@@ -1,4 +1,4 @@
-![Victor Silvester - Analytics Portfolio](<Turning Data Into Insights.png>)
+![Victor Silvester - Analytics Portfolio](Victor_Analytics_Animated_Banner.gif)
 
 # 👋 Hi, I'm Victor Silvester
 

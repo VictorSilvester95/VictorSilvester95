@@ -1,4 +1,4 @@
-![Victor Silvester - Analytics Portfolio](portfolio-banner.png)
+![Victor Silvester - Analytics Portfolio](./portfolio-banner.png)
 # 👋 Hi, I'm Victor Silvester
 
 ### Business Operations | Data Analytics | Power BI | SQL
